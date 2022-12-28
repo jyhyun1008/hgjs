@@ -5,6 +5,6 @@
 
 > Sounds of String and Singing!
 
-CeVIO AI 上古漢語楽曲プロジェクト
+CeVIO AIを使った上古漢語楽曲プロジェクト
 
 Old Chinese music project using CeVIO AI
