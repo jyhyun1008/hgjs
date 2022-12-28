@@ -342,3 +342,7 @@ img {
 	flex-wrap: wrap-reverse;
 	justify-content: space-between;
 }
+
+.gallery {
+	width: 30%;
+}
