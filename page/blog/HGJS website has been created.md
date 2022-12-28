@@ -1,3 +1,4 @@
+[< Back](./?page=blog)
 
 # New Website!
 
