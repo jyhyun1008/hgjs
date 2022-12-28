@@ -9,6 +9,8 @@ CeVIO AIを使った上古漢語楽曲プロジェクト
 
 Old Chinese music project using CeVIO AI
 
+# New Release!
+
 # Links
 
 * Youtube:
