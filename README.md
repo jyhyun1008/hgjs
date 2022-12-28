@@ -7,4 +7,4 @@
 
 CeVIO AI 上古漢語楽曲プロジェクト
 
-Old Chinese Music Project using CeVIO AI
+Old Chinese music project using CeVIO AI
