@@ -21,7 +21,7 @@
 
 <p style="text-align:center;"><img src="https://user-images.githubusercontent.com/93899740/209605151-bad1bef9-74f7-4571-a09c-545a37f307a8.png" style="max-width: 200px; border-radius: 50%; border: 4px solid #6E70AC;"></p>
 
-# Character Voices
+# Character Voices (CeVIO AI)
 
 ## POPY
 
