@@ -347,3 +347,8 @@ img {
 .gallery {
 	width: 49%;
 }
+
+.youtube {
+	width: 100%;
+	aspect-ratio: 16 / 9;
+}
