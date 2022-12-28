@@ -1,3 +1,4 @@
+[< Back](./?page=artist)
 
 # 端木賜
 
