@@ -158,7 +158,6 @@ img {
 }
 
 .main_container{
-    height: calc(100vh - 140px);
 	padding: 25px 25px 60px 25px;
 	overflow:auto; 
 }
