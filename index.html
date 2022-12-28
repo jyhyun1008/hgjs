@@ -12,65 +12,87 @@
 </head>
 <body>
 <link rel="stylesheet" href="./main.css">
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
+<link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
 
 <div class="wrapper">
     <div class="navbar-container">
         <div class="navbar">
             <ul>
                 <li>
-                  <a href="#"><i class="fas fa-home"></i>
+                  <a href="/"><i class='bx bx-home-alt' ></i>
                     <div class="tooltip">
                       처음으로
                     </div>
                   </a>
-        
                 </li>
-                <li><a href="#"><i class="fas fa-user"></i>
+                <li><a href="/?page=artist"><i class='bx bx-user' ></i>
                   <div class="tooltip">
                       아티스트
                   </div>
                   </a>
-        
-              </li>
-                <li><a href="#"><i class="fas fa-address-book"></i>
+                </li>
+                <li><a href="/?page=songs"><i class='bx bxs-playlist' ></i>
                   <div class="tooltip">
-                      노래
+                      악곡
                   </div>
                   </a>
-        
-              </li>
-                <li><a href="#"><i class="fas fa-map-marked"></i>
+                </li>
+                <li><a href="/?page=media"><i class='bx bx-movie-play' ></i>
                    <div class="tooltip">
-                      영상
+                      미디어
                    </div>
                    </a>
-        
-              </li>
-                <li><a href="#"><i class="fas fa-search"></i>
+                </li>
+                <li><a href="/?page=blog"><i class='bx bx-clipboard' ></i>
                   <div class="tooltip">
-                      연락
+                      블로그
                   </div>
                   </a>
-        
-              </li>
+                </li>
             </ul>
         </div>
     </div>
 
+
+    <div class="header">
+
+        <!--Content before waves-->
+        <div class="inner-header flex">
+        <h1 class="title">弦歌之<span>聲</span></h1>
+        </div>
+        
+        <!--Waves Container-->
+        <div>
+        <svg class="waves" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+        viewBox="0 24 150 28" preserveAspectRatio="none" shape-rendering="auto">
+        <defs>
+        <path id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z" />
+        </defs>
+        <g class="parallax">
+        <use xlink:href="#gentle-wave" x="48" y="0" fill="#f7f7f7CC" />
+        <use xlink:href="#gentle-wave" x="48" y="3" fill="#f7f7f788" />
+        <use xlink:href="#gentle-wave" x="48" y="5" fill="#f7f7f744" />
+        <use xlink:href="#gentle-wave" x="48" y="7" fill="#f7f7f7" />
+        </g>
+        </svg>
+        </div>
+        <!--Waves end-->
+
+    </div>
+
     <div class="main_container">
         <div class="content" id="post">
+            
           <div class="item_wrap">
-            <div class="title">
+            <div class="page_title">
               
             </div>
           </div>
+
         </div>
-      </div>
+    </div>
 
-</div>
-
-<script src="./index.js"></script>
+    <script src="./index.js"></script>
 
 </body>
 </html>
