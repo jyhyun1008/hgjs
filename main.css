@@ -1,0 +1,236 @@
+@font-face {
+    font-family: 'Regular';
+    src: url('https://tistory1.daumcdn.net/tistory/2920683/skin/images/cocoartz.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Mono';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_Monoplex-kr@1.0/MonoplexKR-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+}
+
+:root {
+    --text: #2a2728;
+    --textaccent: #808080;
+    --accent: #ffdb58;
+    --bg: #FFF2E4;
+    --white: #fff;
+}
+
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'Regular', sans-serif;
+	text-decoration: none;
+	box-sizing: border-box;
+    letter-spacing: 0.05rem;
+}
+
+body {
+    background-color: var(--accent);
+}
+
+b, strong, h1, h2, h3{
+    text-shadow: -0.2px 0, 0 0.2px, 0.2px 0, 0 -0.2px;
+    letter-spacing: 0.1rem;
+}
+
+img {
+    width: 100%;
+    border-radius: 15px;
+  }
+  
+  del {
+      text-decoration: line-through;
+  }
+  
+  pre {
+      font-family: "Mono";
+      padding: 18px;
+      margin: 10px 0;
+      color: var(--accent);
+      background-color: var(--bg);
+      border-radius: 25px;
+      overflow-x: scroll;
+          word-break: break-all;
+  }
+  
+  code {
+      font-family: "Mono";
+      background-color: var(--bg);
+      color: var(--accent);
+      border-radius: 15px;
+      padding: 5px 10px;
+      word-break: break-all;
+  }
+  
+  blockquote {
+      padding: 18px;
+      margin: 10px 0;
+      color: var(--green);
+      background-color: #fff;
+      border-radius: 25px;
+  }
+  
+  blockquote:before {
+      content: "\201C";
+      font-size: 3em;
+      font-family: Georgia;
+      color: var(--accent);
+      float: left;
+      margin: -5px 10px 0px -10px;
+    }
+  
+  .item ul {
+      display: block;
+      list-style: none; /* Remove default bullets */
+      margin-block-start: 1em;
+      margin-block-end: 1em;
+      margin-inline-start: 0px;
+      margin-inline-end: 0px;
+      padding-inline-start: 40px;
+  }
+  
+  .item ul li::before {
+      content: "\2574";  /* Add content: \2022 is the CSS Code/unicode for a bullet */
+      color: var(--green); /* Change the color */
+      font-weight: bold; /* If you want it to be bold */
+      display: inline-block; /* Needed to add space between the bullet and the text */
+      width: 1em; /* Also needed for space (tweak if needed) */
+      margin-left: -1em; /* Also needed for space (tweak if needed) */
+    }
+  
+  .item ul li {
+      margin-bottom: 10px;
+  }
+  
+  .item ol {
+      display: block;
+      margin-block-start: 1em;
+      margin-block-end: 1em;
+      margin-inline-start: 0px;
+      margin-inline-end: 0px;
+      padding-inline-start: 40px;
+      list-style-type: decimal;
+  }
+  
+.item ol li {
+    margin-bottom: 10px;
+}
+
+.main_container{
+    height: calc(100vh - 140px);
+	padding: 25px;
+	overflow:auto; 
+}
+
+.main_container .content{
+	display: flex;
+	max-width: 500px;
+	flex-wrap: wrap;
+   	margin: 0 auto;
+}
+
+.main_container .content .item_wrap{
+	width: 100%;
+	padding: 10px;
+}
+
+.main_container .content .item_wrap .item{
+	padding: 25px;
+	background: var(--white);
+    border-radius: 15px;
+}
+
+.main_container .content .item_wrap .title{
+    text-shadow: -0.2px 0, 0 0.2px, 0.2px 0, 0 -0.2px;
+	padding: 5px 25px;
+	padding-top: 10px;
+    border-radius: 25px;
+	background: var(--textaccent);
+	color: var(--white);
+	font-size: 2rem;
+	line-height: 3rem;
+}
+
+
+.navbar-container {
+  background: var(--textaccent);
+  position: fixed;
+  top: calc(100% - 60px);
+  width: 100%;
+  height: 60px;
+}
+
+.navbar {
+  position: fixed;
+  top: calc(100% - 60px);
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: var(--white);
+  width: 90%;
+  max-width: 450px;
+  height: 80px;
+  border-radius: 50px;
+}
+
+.navbar ul {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  list-style: none;
+}
+
+.navbar ul li {
+  width: 20%;
+  text-align: center;
+  margin-bottom: -8px;
+}
+
+.navbar ul li a {
+  color: var(--textaccent);
+  font-size: 24px;
+  position: relative;
+  transition: all 0.3s ease;
+}
+
+.navbar ul li a:hover {
+  color: var(--accent);
+}
+
+.navbar ul li .tooltip {
+  position: absolute;
+  top: -90px;
+  left: -45px;
+  background: var(--white);
+  width: 115px;
+  padding: 10px 10px 5px 10px;
+  border-radius: 50px;
+  text-transform: uppercase;
+  font-size: 14px;
+  letter-spacing: 3px;
+  color: var(--textaccent);
+  font-weight: bold;
+  display: none;
+}
+
+.navbar ul li a:hover .tooltip{
+   display: block;
+}
+
+.navbar ul li .tooltip:before{
+  content: "";
+  position: absolute;
+  top: 33px;
+  left: 50%;
+  transform: translateX(-50%);
+  border-top: 10px solid var(--white);
+  border-bottom: 8px solid transparent;
+  border-left: 8px solid transparent;
+  border-right: 8px solid transparent;
+}
