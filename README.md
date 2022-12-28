@@ -19,5 +19,5 @@ Old Chinese music project using CeVIO AI
 # Contact
 
 * Webpage: https://hgjs.peacht.art/
-* Fediverse: `@HGJS@i.peacht.art`
-* E-mail: `hyun1008@kasi.re.kr`
+* Fediverse: @HGJS@i.peacht.art
+* E-mail: hyun1008@kasi.re.kr
