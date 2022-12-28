@@ -33,6 +33,9 @@ function parseMd(md){
     md = md.replace(/\n[\#]{2}(.+)/g, '<h2>$1</h2>');
     md = md.replace(/\n[\#]{1}(.+)/g, '</div></div><div class="item_wrap"><div class="item"><h1>🎼 $1</h1>');
     
+    //images with links
+    md = md.replace(/\!\[([^\]]+)\]\(([^\)]+)\)[\(]{1}([^\)\"]+)(\"(.+)\")?[\)]{1}/g, '<div class="gallery"><a href="$3"><img src="$2" alt="$1" width="30%" /></a></div>');
+    
     //images
     md = md.replace(/\!\[([^\]]+)\]\(([^\)]+)\)/g, '<img src="$2" alt="$1" width="100%" />');
     
