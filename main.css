@@ -65,6 +65,7 @@ h3 {
 span{
     color: var(--yellow);
     font-size: inherit;
+    font-family:inherit;
 }
 
 a {
@@ -181,6 +182,7 @@ img {
 }
 
 .main_container .content .item_wrap .page_title{
+    text-transform: uppercase;
     margin: 5px 0;
     text-align: center;
     text-shadow: -0.2px 0, 0 0.2px, 0.2px 0, 0 -0.2px;
