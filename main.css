@@ -346,7 +346,7 @@ img {
 	flex-direction: row-reverse;
 	flex-wrap: wrap-reverse;
 	justify-content: space-between;
-	align-items: baseline;
+	align-items: stretch;
 }
 
 .gallery {
