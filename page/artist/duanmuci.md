@@ -9,7 +9,7 @@
 
 <p style="text-align: center;">Courtesy Name: <b>子貢(Zigong)</b></p>
 <p style="text-align: center;">Best At: <b>Speech</b></p>
-<p style="text-align: center;">Position: <b>Guitar & Vocal</b></p>
+<p style="text-align: center;">Position: <b>Vocal</b></p>
 
 # Gallery
 
