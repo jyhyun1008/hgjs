@@ -5,31 +5,31 @@
 
 ## 端木賜
 
-<p style="text-align:center;"><a href="./?page=artist/duanmuci"><img src="https://gwansangg.am/hgjs/files/duanmuci.png" style="max-width: 200px; border-radius: 50%; border: 7px solid #8B6CB7;"></a></p>
+<p style="text-align:center;"><a href="./?page=artist/duanmuci"><img src="https://gwansangg.am/hgjs/files/duanmuci.png" style="max-width: 200px; border-radius: 50%; border: 7px solid #5050d2;"></a></p>
 
 **Zai Yu**
 
 ## 宰予
 
-<p style="text-align:center;"><a href="./?page=artist/zaiyu"><img src="https://gwansangg.am/hgjs/files/zaiyu.png" style="max-width: 200px; border-radius: 50%; border: 7px solid #74B299;"></a></p>
+<p style="text-align:center;"><a href="./?page=artist/zaiyu"><img src="https://gwansangg.am/hgjs/files/zaiyu.png" style="max-width: 200px; border-radius: 50%; border: 7px solid #47C83E;"></a></p>
 
 **Yan Hui**
 
 ## 顔回
 
-<p style="text-align:center;"><a href="./?page=artist/yanhui"><img src="https://gwansangg.am/hgjs/files/yanhui.png" style="max-width: 200px; border-radius: 50%; border: 7px solid #FEDDD6;"></a></p>
+<p style="text-align:center;"><a href="./?page=artist/yanhui"><img src="https://gwansangg.am/hgjs/files/yanhui.png" style="max-width: 200px; border-radius: 50%; border: 7px solid #fa006e;"></a></p>
 
 **Ran Qiu**
 
 ## 冉求
 
-<p style="text-align:center;"><a href="./?page=artist/ranqiu"><img src="https://gwansangg.am/hgjs/files/ranqiu.png" style="max-width: 200px; border-radius: 50%; border: 7px solid #E2C8A5;"></a></p>
+<p style="text-align:center;"><a href="./?page=artist/ranqiu"><img src="https://gwansangg.am/hgjs/files/ranqiu.png" style="max-width: 200px; border-radius: 50%; border: 7px solid #FFBB00;"></a></p>
 
 **Zhong You**
 
 ## 仲由
 
-<p style="text-align:center;"><a href="./?page=artist/zhongyou"><img src="https://gwansangg.am/hgjs/files/zhongyou.png" style="max-width: 200px; border-radius: 50%; border: 7px solid #6E70AC;"></a></p>
+<p style="text-align:center;"><a href="./?page=artist/zhongyou"><img src="https://gwansangg.am/hgjs/files/zhongyou.png" style="max-width: 200px; border-radius: 50%; border: 7px solid #0275d8;"></a></p>
 
 # Character Voices <sub>(CeVIO AI)</sub>
 
