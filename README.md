@@ -1,7 +1,7 @@
 
 # 弦歌之聲<sub>(Hyon-Ga-Ji-Song)</sub>
 
-![공문현가지성](https://gwansangg.am/hgjs/files/hgjs.png)
+![공문현가지성](https://gwansangg.am/hgjs/files/all.png)
 
 > Sounds of String and Singing!
 
