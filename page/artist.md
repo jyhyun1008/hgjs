@@ -39,7 +39,7 @@
 
 ## 裏命
 
-<p style="text-align:center;"><a href="./?page=cv/rime"><img src="https://user-images.githubusercontent.com/93899740/209764997-a98802b7-8781-4c76-ae58-3249f526f0c3.png" style="max-width: 200px; border-radius: 50%; border: 4px solid #74B299;"></a></p>
+<p style="text-align:center;"><a href="./?page=cv/rime"><img src="https://user-images.githubusercontent.com/93899740/209888352-0ebcbf61-a6e3-4412-9205-7ec940587b0f.png" style="max-width: 200px; border-radius: 50%; border: 4px solid #74B299;"></a></p>
 
 ## 星界
 
@@ -51,7 +51,7 @@
 
 ## ROSE
 
-<p style="text-align:center;"><a href="./?page=cv/rose"><img src="https://user-images.githubusercontent.com/93899740/209765005-12d122aa-d1e2-4407-b0d5-8ef1a94c1d27.png" style="max-width: 200px; border-radius: 50%; border: 4px solid #6E70AC;"></a></p>
+<p style="text-align:center;"><a href="./?page=cv/rose"><img src="https://user-images.githubusercontent.com/93899740/209888428-a059a003-7baa-498d-8ce1-b2e40722b87e.png" style="max-width: 200px; border-radius: 50%; border: 4px solid #6E70AC;"></a></p>
 
 # Instruments
 
