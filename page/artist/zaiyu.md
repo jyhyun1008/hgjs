@@ -4,7 +4,7 @@
 
 **Zai Yu(CN) / Jae Yeo(KR) / Sai Yo(JP)**
 
-<p style="text-align:center;"><img src="https://gwansangg.am/hgjs/files/zaiyu.png" style="max-width: 200px; border-radius: 50%; border: 4px solid #74B299;"></p>
+<p style="text-align:center;"><img src="https://gwansangg.am/hgjs/files/zaiyu.png" style="max-width: 200px; border-radius: 50%; border: 7px solid #74B299;"></p>
 
 <p style="text-align: center;">Courtesy Name: <b>子我(Ziwo)</b></p>
 <p style="text-align: center;">Best At: <b>Speech</b></p>
