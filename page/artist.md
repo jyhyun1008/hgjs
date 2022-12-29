@@ -35,7 +35,7 @@
 
 ### The reason why some character designs have changed
 
-We tried to use the original character design as it is. However, if we did so, there was a problem of three white-haired characters in the same group.
+At first, we tried to use the original character design as it is. However, if we did so, there was a problem of three white-haired characters in the same group.
 
 Considering the balance of the group character design, we thought it would be ideal to change the color of the characters' hair.
 
