@@ -35,23 +35,23 @@
 
 ## POPY
 
-<p style="text-align:center;"><a href="./?page=cv/popy"><img src="https://user-images.githubusercontent.com/93899740/209765006-cfd2e7e7-4e0a-4ef4-8af6-1501d0c9ab7e.png" style="max-width: 200px; border-radius: 50%; border: 4px solid #8B6CB7;"></a></p>
+<p style="text-align:center;"><a href="./?page=cv/popy"><img src="https://gwansangg.am/hgjs/files/Popy.png" style="max-width: 200px; border-radius: 50%; border: 4px solid #8B6CB7;"></a></p>
 
 ## 裏命
 
-<p style="text-align:center;"><a href="./?page=cv/rime"><img src="https://user-images.githubusercontent.com/93899740/209888352-0ebcbf61-a6e3-4412-9205-7ec940587b0f.png" style="max-width: 200px; border-radius: 50%; border: 4px solid #74B299;"></a></p>
+<p style="text-align:center;"><a href="./?page=cv/rime"><img src="https://gwansangg.am/hgjs/files/Rime.png" style="max-width: 200px; border-radius: 50%; border: 4px solid #74B299;"></a></p>
 
 ## 星界
 
-<p style="text-align:center;"><a href="./?page=cv/sekai"><img src="https://user-images.githubusercontent.com/93899740/209765001-7dcc0349-5854-4407-b19c-816aab1c07a2.png" style="max-width: 200px; border-radius: 50%; border: 4px solid #FEDDD6;"></a></p>
+<p style="text-align:center;"><a href="./?page=cv/sekai"><img src="https://gwansangg.am/hgjs/files/Sekai.png" style="max-width: 200px; border-radius: 50%; border: 4px solid #FEDDD6;"></a></p>
 
 ## つづみ
 
-<p style="text-align:center;"><a href="./?page=cv/tsuzumi"><img src="https://user-images.githubusercontent.com/93899740/209765004-259a7066-ff49-418b-a108-e366fd489043.png" style="max-width: 200px; border-radius: 50%; border: 4px solid #E2C8A5;"></a></p>
+<p style="text-align:center;"><a href="./?page=cv/tsuzumi"><img src="https://gwansangg.am/hgjs/files/Tsuzumi.png" style="max-width: 200px; border-radius: 50%; border: 4px solid #E2C8A5;"></a></p>
 
 ## ROSE
 
-<p style="text-align:center;"><a href="./?page=cv/rose"><img src="https://user-images.githubusercontent.com/93899740/209888428-a059a003-7baa-498d-8ce1-b2e40722b87e.png" style="max-width: 200px; border-radius: 50%; border: 4px solid #6E70AC;"></a></p>
+<p style="text-align:center;"><a href="./?page=cv/rose"><img src="https://gwansangg.am/hgjs/files/Rose.png" style="max-width: 200px; border-radius: 50%; border: 4px solid #6E70AC;"></a></p>
 
 # Instruments
 
