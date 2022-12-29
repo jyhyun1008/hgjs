@@ -41,23 +41,23 @@ Considering the balance of the group character design, we thought it would be id
 
 ## POPY
 
-<p style="text-align:center;"><a href="./?page=cv/popy"><img src="https://gwansangg.am/hgjs/files/popy.png" style="max-width: 200px; border-radius: 50%; border: 7px solid #8B6CB7;"></a></p>
+<p style="text-align:center;"><a href="./?page=cv/popy"><img src="https://gwansangg.am/hgjs/files/popy.png" style="max-width: 200px; border-radius: 50%; border: 7px solid #fa006e;"></a></p>
 
 ## 裏命
 
-<p style="text-align:center;"><a href="./?page=cv/rime"><img src="https://gwansangg.am/hgjs/files/rime.png" style="max-width: 200px; border-radius: 50%; border: 7px solid #74B299;"></a></p>
+<p style="text-align:center;"><a href="./?page=cv/rime"><img src="https://gwansangg.am/hgjs/files/rime.png" style="max-width: 200px; border-radius: 50%; border: 7px solid #e51500;"></a></p>
 
 ## 星界
 
-<p style="text-align:center;"><a href="./?page=cv/sekai"><img src="https://gwansangg.am/hgjs/files/sekai.png" style="max-width: 200px; border-radius: 50%; border: 7px solid #FEDDD6;"></a></p>
+<p style="text-align:center;"><a href="./?page=cv/sekai"><img src="https://gwansangg.am/hgjs/files/sekai.png" style="max-width: 200px; border-radius: 50%; border: 7px solid #7933ff;"></a></p>
 
 ## つづみ
 
-<p style="text-align:center;"><a href="./?page=cv/tsuzumi"><img src="https://gwansangg.am/hgjs/files/tsuzumi.png" style="max-width: 200px; border-radius: 50%; border: 7px solid #E2C8A5;"></a></p>
+<p style="text-align:center;"><a href="./?page=cv/tsuzumi"><img src="https://gwansangg.am/hgjs/files/tsuzumi.png" style="max-width: 200px; border-radius: 50%; border: 7px solid #0275d8;"></a></p>
 
 ## ROSE
 
-<p style="text-align:center;"><a href="./?page=cv/rose"><img src="https://gwansangg.am/hgjs/files/rose.png" style="max-width: 200px; border-radius: 50%; border: 7px solid #6E70AC;"></a></p>
+<p style="text-align:center;"><a href="./?page=cv/rose"><img src="https://gwansangg.am/hgjs/files/rose.png" style="max-width: 200px; border-radius: 50%; border: 7px solid #5050d2;"></a></p>
 
 # Instruments
 
