@@ -5,7 +5,7 @@
 
 ## 端木賜
 
-<p style="text-align:center;"><a href="./?page=artist/duanmuci"><img src="https://gwansangg.am/hgjs/files/duanmuci.png" style="max-width: 200px; border-radius: 50%; border: 7px solid #5050d2;"></a></p>
+<p style="text-align:center;"><a href="./?page=artist/duanmuci"><img src="https://gwansangg.am/hgjs/files/duanmuci.png" style="max-width: 200px; border-radius: 50%; border: 7px solid #8041D9;"></a></p>
 
 **Zai Yu**
 
@@ -17,7 +17,7 @@
 
 ## 顔回
 
-<p style="text-align:center;"><a href="./?page=artist/yanhui"><img src="https://gwansangg.am/hgjs/files/yanhui.png" style="max-width: 200px; border-radius: 50%; border: 7px solid #fa006e;"></a></p>
+<p style="text-align:center;"><a href="./?page=artist/yanhui"><img src="https://gwansangg.am/hgjs/files/yanhui.png" style="max-width: 200px; border-radius: 50%; border: 7px solid #F361A6;"></a></p>
 
 **Ran Qiu**
 
@@ -29,7 +29,7 @@
 
 ## 仲由
 
-<p style="text-align:center;"><a href="./?page=artist/zhongyou"><img src="https://gwansangg.am/hgjs/files/zhongyou.png" style="max-width: 200px; border-radius: 50%; border: 7px solid #0275d8;"></a></p>
+<p style="text-align:center;"><a href="./?page=artist/zhongyou"><img src="https://gwansangg.am/hgjs/files/zhongyou.png" style="max-width: 200px; border-radius: 50%; border: 7px solid #4641D9;"></a></p>
 
 # Character Voices <sub>(CeVIO AI)</sub>
 
