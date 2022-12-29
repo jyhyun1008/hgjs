@@ -45,11 +45,11 @@ Considering the balance of the group character design, we thought it would be id
 
 ## 裏命
 
-<p style="text-align:center;"><a href="./?page=cv/rime"><img src="https://gwansangg.am/hgjs/files/rime.png" style="max-width: 200px; border-radius: 50%; border: 7px solid #e51500;"></a></p>
+<p style="text-align:center;"><a href="./?page=cv/rime"><img src="https://gwansangg.am/hgjs/files/rime.png" style="max-width: 200px; border-radius: 50%; border: 7px solid #FFBB00;"></a></p>
 
 ## 星界
 
-<p style="text-align:center;"><a href="./?page=cv/sekai"><img src="https://gwansangg.am/hgjs/files/sekai.png" style="max-width: 200px; border-radius: 50%; border: 7px solid #7933ff;"></a></p>
+<p style="text-align:center;"><a href="./?page=cv/sekai"><img src="https://gwansangg.am/hgjs/files/sekai.png" style="max-width: 200px; border-radius: 50%; border: 7px solid #47C83E;"></a></p>
 
 ## つづみ
 
