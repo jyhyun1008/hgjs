@@ -33,6 +33,12 @@
 
 # Character Voices <sub>(CeVIO AI)</sub>
 
+### The reason why some character designs have changed
+
+We tried to use the original character design as it is. However, if we did so, there was a problem of three white-haired characters in the same group.
+
+Considering the balance of the group character design, we thought it would be ideal to change the color of the characters' hair.
+
 ## POPY
 
 <p style="text-align:center;"><a href="./?page=cv/popy"><img src="https://gwansangg.am/hgjs/files/Popy.png" style="max-width: 200px; border-radius: 50%; border: 4px solid #8B6CB7;"></a></p>
