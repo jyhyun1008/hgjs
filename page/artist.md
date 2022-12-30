@@ -47,7 +47,7 @@
 
 ## つづみ
 
-<p style="text-align:center;"><a href="./?page=cv/tsudumi"><img src="https://gwansangg.am/hgjs/files/tsuzumi.png" style="max-width: 200px; border-radius: 50%; border: 7px solid #0275d8;"></a></p>
+<p style="text-align:center;"><a href="./?page=cv/tsudumi"><img src="https://gwansangg.am/hgjs/files/tsudumi.png" style="max-width: 200px; border-radius: 50%; border: 7px solid #0275d8;"></a></p>
 
 ## ROSE
 
