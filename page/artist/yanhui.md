@@ -14,8 +14,6 @@
 # Gallery
 
 <div class="gallery-container">
-  ![이미지 설명](https://user-images.githubusercontent.com/93899740/209605166-014ecb1c-3bc7-4f90-9c6e-0bfe4bafb6c6.png)(./)
-  
   ![이미지 설명](https://gwansangg.am/hgjs/files/yanhui_full.png)(./)
   
 </div>
