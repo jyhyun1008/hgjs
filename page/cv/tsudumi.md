@@ -12,6 +12,4 @@
 <div class="gallery-container">
   ![이미지 설명](https://gwansangg.am/hgjs/files/Tsudumi-full.png)(./)
   
-  ![이미지 설명](https://gwansangg.am/hgjs/files/tsudumi.png)(./)
-  
 </div>
