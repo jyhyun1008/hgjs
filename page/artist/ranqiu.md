@@ -14,8 +14,6 @@
 # Gallery
 
 <div class="gallery-container">
-  ![이미지 설명](https://user-images.githubusercontent.com/93899740/209605164-3d2e46e3-2d23-4f7c-b01a-de6616a493d9.png)(./)
-  
   ![이미지 설명](https://gwansangg.am/hgjs/files/ranqiu_full.png)(./)
   
 </div>
