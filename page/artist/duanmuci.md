@@ -14,8 +14,6 @@
 # Gallery
 
 <div class="gallery-container">
-  ![이미지 설명](https://user-images.githubusercontent.com/93899740/209605158-5386bb03-1cc0-4146-b784-8b0ec9595c65.png)(./)
-  
   ![이미지 설명](https://gwansangg.am/hgjs/files/duanmuci_full.png)(./)
   
 </div>
