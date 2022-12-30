@@ -14,8 +14,6 @@
 # Gallery
 
 <div class="gallery-container">
-  ![이미지 설명](https://user-images.githubusercontent.com/93899740/209605151-bad1bef9-74f7-4571-a09c-545a37f307a8.png)(./)
-  
   ![이미지 설명](https://gwansangg.am/hgjs/files/zhongyou_full.png)(./)
   
 </div>
