@@ -13,6 +13,10 @@
   
 </div>
 
+# Comics
+
+* [Ep 1-2](./?page=comics/1-2)
+
 # Gallery
 
 <div class="gallery-container">
