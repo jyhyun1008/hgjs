@@ -116,7 +116,7 @@ if (ep) {
             //bgm, sound
             if (muteBool == false) {
                 if (bgmArray[j] && bgmArray[j] != bgmArray[formerj]) {
-                    bgmArray[formerj].pause(); bgmArray[j].play();
+                    bgmArray[formerj].pause(); bgmArray[j].loop = true; bgmArray[j].play();
                 } else if (!bgmArray[j]) {
                     bgmArray[j] = new Audio(); bgmArray[formerj].pause();
                 } if (soundArray[j]) {
