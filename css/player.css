@@ -14,7 +14,7 @@
 #player {
    	position: absolute;
     	z-index: 0;
-    	top: 60px;
+    	top: 30px;
     	left: calc(50vw - 250px);
     	width: 100%;
     	max-width: 500px;
