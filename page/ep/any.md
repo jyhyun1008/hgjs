@@ -8,7 +8,7 @@
   balloon: "default",
   theme: "#ffdb58",
   bg: {
-    교실: "school_classroom",
+    교실: "school_classroom1",
     오후하늘: "Old_EncoreTitle"
   },
   bgm: {
