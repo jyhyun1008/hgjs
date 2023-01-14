@@ -171,7 +171,7 @@ if (ep) {
         
         pageLoad(j, 0);
         
-        raw.addEventListener("click", function(){ window.location.href = './index.html?raw='+ep;});
+        raw.addEventListener("click", function(){ window.location.href = './?raw='+ep;});
         mute.addEventListener("click", function(){
             if (muteBool == false){
                 muteBool = true;
