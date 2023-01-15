@@ -16,7 +16,7 @@
     기본: "default"
   },
   sound: {
-    문소리: "doorsound"
+    문소리: "doorsound",
     학교종: "schoolbell"
   },
   effect: {
