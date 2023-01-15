@@ -10,7 +10,8 @@
   bg: {
     학교: "school_ground",
     교실: "school_classroom1",
-    오후하늘: "Old_EncoreTitle"
+    오후하늘: "Old_EncoreTitle",
+    학생회실: "Old_LivingRoom"
   },
   bgm: {
     기본: "default"
@@ -208,14 +209,29 @@
 
 ---
 
-`bgm=default` `bg=`
+`bgm=기본` `bg=학생회실`
 
 ### 방과 후
 
 ---
 
 <!--bgm--> <!--bg-->
+
 ### 학생회실
+
+---
+
+<!--bgm--> <!--bg-->
+
+### ???
+> 음... 그러니까,
+
+---
+
+<!--bgm--> <!--bg-->
+
+### ???
+> 아무래도 
 
 ---
 
