@@ -10,4 +10,4 @@
 # List of Cover Songs
 
 * 会いたかった - Duanmu Ci, Zai Yu, Yan Hui, Ran Qiu, Zhong You / POPY, 裏命, 星界, すずきつづみ, ROSE `2023-01-09`
-* 星座になれたら - Duanmu Ci / POPY, `2023-01-16`
+* 星座になれたら - Duanmu Ci / POPY `2023-01-16`
